@@ -32,7 +32,7 @@ Collection catalogues / exhibition catalogues / guides and toolkits / journals /
 - **Realtime Publication Preview** Make changes and view them live in your browser
 - **Web Accessibility** Include logical reading order, alt texts, language codes, semantic section elements, and more
 - **SEO Optimization** Include metadata and tags for enhanced {{< q-def "search engine optimization" >}}
-- **Single-source Publishing** Change content once to change it across all formats, without trying to repeat it
+- **Single-source Publishing** Change content once to change it across all formats, without trying repeat it
 - **Customizable Styles & Fonts** Customize your publication's look and feel to suit your needs
 - **Figure Images & Image Groups** Include high quality images in a variety of configurations
 - **Zooming Images** Enable deep zooming capabilities with [IIIF](https://iiif.io/)
